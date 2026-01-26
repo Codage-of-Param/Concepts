@@ -1,6 +1,6 @@
 # **Workflow of API**
 
-![alt text](<Screenshot 2026-01-26 184921.png>)
+<img width="928" height="471" alt="Screenshot 2026-01-26 184921" src="https://github.com/user-attachments/assets/6a1f506e-623e-450c-9ef0-0b4af4403e17" />
 
 ```bash
 A client sends data 
@@ -73,7 +73,8 @@ response is sent back.
     - **Asynchronus means** we can send multiple request at same time<br>
     - Use production servers like **Uvicorn**.
 
-![WSGI,ASGI](<Screenshot 2026-01-26 184958.png>)
+<img width="1051" height="586" alt="Screenshot 2026-01-26 184958" src="https://github.com/user-attachments/assets/0224b99e-9c6d-420f-be02-c96554515749" />
+
 
 - SGI converts the raw HTTP request into a structured format (API does know the http language that's why sgi converts in pyton language):
 
@@ -136,5 +137,24 @@ response is sent back.
     - Multiple requests handled efficiently
 
 - **Standardized**
-
+  
     - Works the same for web apps, mobile apps, ML APIs
+
+<img width="1241" height="661" alt="Screenshot 2026-01-26 183556" src="https://github.com/user-attachments/assets/4177ae34-76d3-4002-922b-fad04aed1417" />
+
+
+# **Philosophy of FastAPI**:
+
+- ***Fast to run***
+
+- ***Fast to code***
+ 
+# **Why FastAPI fast to code?**
+
+- mainly 3 aspects:
+
+    1. Automatic input validation
+
+    2. Auto generated interactive documentation
+
+    3. Seamless integration with modern ecosystem (ML/DL libraries, Docker, SQL Alchemy, OAuth,..)
