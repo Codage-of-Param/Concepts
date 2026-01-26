@@ -1,7 +1,5 @@
 # **FastAPI - Introduction**
 
-![image.png](attachment:image.png)
-
 ## **1. What is an API? (Application Programming Interface)**
 
 - **Definition**: 
@@ -20,6 +18,8 @@
     - Promotes **modularity** and reuse of components.
 
     - **Improves scalability** and **efficiency** of applications. 
+
+<img width="1362" height="707" alt="What's an API?" src="https://github.com/user-attachments/assets/dab99d31-56a3-485b-84ad-4fb0b57dd708" />
 
 ## **2. How APIs Work?**
 
@@ -59,7 +59,7 @@
 
 4. **Efficiency**: Automates data access and processes across systems.
 
-![image.png](attachment:image.png)
+<img width="1366" height="768" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/1fbbe4f8-2c3d-4d67-9693-0b5ed9e696ae" />
 
 ## **5. Introduction to FastAPI**
 
@@ -85,7 +85,7 @@
 
 - Enables **real-time model serving** and integration with frontends or other services.
 
-![image.png](attachment:image.png)
+<img width="1366" height="768" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/1dc1275f-a0ee-4337-a7f0-0e4ce8310f96" />
 
 ## **7. Summary (Quick Points)**
 
