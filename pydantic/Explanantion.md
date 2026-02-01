@@ -242,7 +242,7 @@ print(class_name.bmi)
 
     - **Validation**: Nested models are validated automatically no extra work needed
 
-    - Check code: nested_models.py
+    - Check code: [nested_models.py](https://github.com/Codage-of-Param/Concepts/blob/main/pydantic/nested_models.py)
 
 # **Export in JSON and Dictionary format**
 
